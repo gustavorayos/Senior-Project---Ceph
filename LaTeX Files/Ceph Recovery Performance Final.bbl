@@ -1,0 +1,83 @@
+\begin{thebibliography}{10}
+
+\bibitem{erasure_coded_pools}
+Ceph.
+\newblock Erasure coded pool.
+
+\bibitem{ceph_about_pools}
+Ceph.com.
+\newblock About pools, 2015.
+
+\bibitem{Gibson+:login13}
+Garth Gibson, Gary Grider, Andree Jacobson, and Wyatt Lloyd.
+\newblock Probe: A thousand-node experimental cluster for computer systems
+  research.
+\newblock volume~38, June 2013.
+
+\bibitem{greenan2007disaster}
+Kevin~M Greenan, Ethan~L Miller, Thomas~JE Schwarz, and Darrell~DE Long.
+\newblock Disaster recovery codes: increasing reliability with large-stripe
+  erasure correcting codes.
+\newblock In {\em Proceedings of the 2007 ACM workshop on Storage security and
+  survivability}, pages 31--36. ACM, 2007.
+
+\bibitem{self_healing_claim}
+Red Hat.
+\newblock Red hat ceph storage, 2015.
+
+\bibitem{jerasure_vs_isa}
+Loic.
+\newblock Ceph jerasure and isa plugins benchmarks, May 2015.
+
+\bibitem{maltzahn2010ceph}
+Carlos Maltzahn, Esteban Molina-Estolano, Amandeep Khurana, Alex~J Nelson,
+  Scott~A Brandt, and Sage Weil.
+\newblock Ceph as a scalable alternative to the hadoop distributed file system.
+\newblock {\em login: The USENIX Magazine}, 35:38--49, 2010.
+
+\bibitem{mesnier2003object}
+Mike Mesnier, Gregory~R Ganger, and Erik Riedel.
+\newblock Object-based storage.
+\newblock {\em IEEE Communications Magazine}, 41(8):84--90, 2003.
+
+\bibitem{wang_evaluation}
+Feiyi Wang, Mark Nelson, Sarp Oral, Scott Atchley, Sage Weil, Bradley~W.
+  Settlemyer, Blake Caldwell, and Jason Hill.
+\newblock Performance and scalability evaluation of the ceph parallel file
+  system.
+\newblock In {\em Proceedings of the 8th Parallel Data Storage Workshop}, PDSW
+  '13, pages 14--19, New York, NY, USA, 2013. ACM.
+
+\bibitem{weatherspoon2002erasure}
+Hakim Weatherspoon and John~D Kubiatowicz.
+\newblock Erasure coding vs. replication: A quantitative comparison.
+\newblock In {\em Peer-to-Peer Systems}, pages 328--337. Springer, 2002.
+
+\bibitem{weil_high-performance}
+Sage~A. Weil, Scott~A. Brandt, Ethan~L. Miller, Darrell D.~E. Long, and Carlos
+  Maltzahn.
+\newblock Ceph: A scalable, high-performance distributed file system.
+\newblock In {\em Proceedings of the 7th USENIX Symposium on Operating Systems
+  Design and Implementation}, OSDI '06, pages 307--320, Berkeley, CA, USA,
+  2006.
+
+\bibitem{weil2006crush}
+Sage~A Weil, Scott~A Brandt, Ethan~L Miller, and Carlos Maltzahn.
+\newblock Crush: Controlled, scalable, decentralized placement of replicated
+  data.
+\newblock In {\em Proceedings of the 2006 ACM/IEEE conference on
+  Supercomputing}, page 122. ACM, 2006.
+
+\bibitem{weil_rados}
+Sage~A. Weil, Andrew~W. Leung, Scott~A. Brandt, and Carlos Maltzahn.
+\newblock Rados: A scalable, reliable storage service for petabyte-scale
+  storage clusters.
+\newblock In {\em Proceedings of the 2Nd International Workshop on Petascale
+  Data Storage: Held in Conjunction with Supercomputing '07}, PDSW '07, pages
+  35--44, New York, NY, USA, 2007. ACM.
+
+\bibitem{isa}
+Yuan Zhou.
+\newblock Ceph erasure coding introduction, April 2015.
+
+\end{thebibliography}

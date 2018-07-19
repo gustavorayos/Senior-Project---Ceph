@@ -1,0 +1,84 @@
+-------------------------------------------------------------------
+Pool: 29 k6m2ruleset,31 k6m2pool, 
+ 
+Benchmark Start Time: Mon Nov 23 09:24:55 MST 2015 
+ 
+-------------------------------------------------------------------
+Pool: 29 k6m2ruleset,32 k6m2pool, 
+ 
+Benchmark Start Time: Mon Nov 23 10:07:39 MST 2015 
+ 
+    cluster 0cb16b38-9df3-4660-9fcb-57a264af6a0b
+     health HEALTH_OK
+     monmap e1: 1 mons at {ceph1=10.0.69.35:6789/0}
+            election epoch 1, quorum 0 ceph1
+     osdmap e2877: 44 osds: 44 up, 44 in
+      pgmap v86793: 512 pgs, 1 pools, 100000 MB data, 100000 objects
+            135 GB used, 40610 GB / 40746 GB avail
+                 512 active+clean
+ 
+Benchmark Completed Time: Mon Nov 23 10:56:20 MST 2015 
+-------------------------------------------------------------------
+ 
+-------------------------------------------------------------------
+Pool: 29 k6m2ruleset,32 k6m2pool, 
+ 
+    cluster 0cb16b38-9df3-4660-9fcb-57a264af6a0b
+     health HEALTH_OK
+     monmap e1: 1 mons at {ceph1=10.0.69.35:6789/0}
+            election epoch 1, quorum 0 ceph1
+     osdmap e2900: 42 osds: 42 up, 42 in
+      pgmap v87790: 512 pgs, 1 pools, 100000 MB data, 100000 objects
+            135 GB used, 39684 GB / 39820 GB avail
+                 512 active+clean 
+ 
+1 OSD down recovery time: 7:29.98
+ 
+2 OSDs down recovery time: 11:26.84
+ 
+-------------------------------------------------------------------
+
+ Total time run:         30.738039
+Total writes made:      415
+Write size:             4194432
+Bandwidth (MB/sec):     54.006 
+
+Stddev Bandwidth:       21.9606
+Max bandwidth (MB/sec): 92.0028
+Min bandwidth (MB/sec): 0
+Average Latency:        1.18158
+Stddev Latency:         1.42558
+Max latency:            8.35912
+Min latency:            0.126254
+
+-------------------------------------------------------------------
+
+ Total time run:         31.287566
+Total writes made:      426
+Write size:             4194432
+Bandwidth (MB/sec):     54.464 
+
+Stddev Bandwidth:       28.3828
+Max bandwidth (MB/sec): 112.003
+Min bandwidth (MB/sec): 0
+Average Latency:        1.16899
+Stddev Latency:         1.41055
+Max latency:            8.01996
+Min latency:            0.125901
+
+------------------------------------------------------------------
+
+ Total time run:         31.343938
+Total writes made:      421
+Write size:             4194432
+Bandwidth (MB/sec):     53.728 
+
+Stddev Bandwidth:       22.0021
+Max bandwidth (MB/sec): 92.0028
+Min bandwidth (MB/sec): 0
+Average Latency:        1.1804
+Stddev Latency:         1.35387
+Max latency:            8.36638
+Min latency:            0.128817
+
+------------------------------------------------------------------

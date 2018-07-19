@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Ceph Recovery Performance Final.aux
+The style file: plain.bst
+Database file #1: Ceph.bib
+Warning--entry type for "isa" isn't style-file defined
+--line 11 of file Ceph.bib
+Warning--entry type for "jerasure_vs_isa" isn't style-file defined
+--line 24 of file Ceph.bib
+Warning--entry type for "erasure_coded_pools" isn't style-file defined
+--line 37 of file Ceph.bib
+Warning--entry type for "ceph_about_pools" isn't style-file defined
+--line 46 of file Ceph.bib
+Warning--entry type for "self_healing_claim" isn't style-file defined
+--line 58 of file Ceph.bib
+Warning--empty booktitle in Gibson+:login13
+Warning--can't use both volume and number fields in Gibson+:login13
+You've used 14 entries,
+            2118 wiz_defined-function locations,
+            575 strings with 6394 characters,
+and the built_in function-call counts, 5173 in all, are:
+= -- 503
+> -- 262
+< -- 7
++ -- 104
+- -- 90
+* -- 337
+:= -- 823
+add.period$ -- 42
+call.type$ -- 14
+change.case$ -- 87
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 201
+empty$ -- 408
+format.name$ -- 90
+if$ -- 1120
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 9
+newline$ -- 68
+num.names$ -- 28
+pop$ -- 121
+preamble$ -- 1
+purify$ -- 73
+quote$ -- 0
+skip$ -- 162
+stack$ -- 0
+substring$ -- 250
+swap$ -- 64
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 2
+while$ -- 48
+width$ -- 16
+write$ -- 150
+(There were 7 warnings)

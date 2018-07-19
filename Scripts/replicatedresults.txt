@@ -1,0 +1,81 @@
+-------------------------------------------------------------------
+Pool: 38 replicatedpool, 
+ 
+Benchmark Start Time: Tue Nov 24 07:59:04 MST 2015 
+ 
+    cluster 0cb16b38-9df3-4660-9fcb-57a264af6a0b
+     health HEALTH_OK
+     monmap e1: 1 mons at {ceph1=10.0.69.35:6789/0}
+            election epoch 1, quorum 0 ceph1
+     osdmap e2997: 44 osds: 44 up, 44 in
+      pgmap v96811: 2048 pgs, 1 pools, 99928 MB data, 99928 objects
+            300 GB used, 40445 GB / 40746 GB avail
+                2048 active+clean
+  client io 41295 kB/s wr, 40 op/s
+ 
+Benchmark Completed Time: Tue Nov 24 08:58:13 MST 2015 
+-------------------------------------------------------------------
+ 
+-------------------------------------------------------------------
+Pool: 38 replicatedpool, 
+ 
+    cluster 0cb16b38-9df3-4660-9fcb-57a264af6a0b
+     health HEALTH_OK
+     monmap e1: 1 mons at {ceph1=10.0.69.35:6789/0}
+            election epoch 1, quorum 0 ceph1
+     osdmap e3023: 42 osds: 42 up, 42 in
+      pgmap v97309: 2048 pgs, 1 pools, 100000 MB data, 100000 objects
+            296 GB used, 38597 GB / 38894 GB avail
+                2048 active+clean 
+ 
+1 OSD down recovery time: 2:14.46
+ 
+2 OSDs down recovery time: 3:47.70
+ 
+-------------------------------------------------------------------
+
+ Total time run:         36.657160
+Total writes made:      326
+Write size:             4194304
+Bandwidth (MB/sec):     35.573 
+
+Stddev Bandwidth:       22.6773
+Max bandwidth (MB/sec): 92
+Min bandwidth (MB/sec): 0
+Average Latency:        1.76432
+Stddev Latency:         3.46666
+Max latency:            21.8216
+Min latency:            0.167624
+
+--------------------------------------------------------------------
+
+ Total time run:         38.298086
+Total writes made:      318
+Write size:             4194304
+Bandwidth (MB/sec):     33.213 
+
+Stddev Bandwidth:       26.552
+Max bandwidth (MB/sec): 100
+Min bandwidth (MB/sec): 0
+Average Latency:        1.89588
+Stddev Latency:         3.74956
+Max latency:            19.9706
+Min latency:            0.166842
+
+--------------------------------------------------------------------
+
+ Total time run:         37.652692
+Total writes made:      313
+Write size:             4194304
+Bandwidth (MB/sec):     33.251 
+
+Stddev Bandwidth:       23.5399
+Max bandwidth (MB/sec): 80
+Min bandwidth (MB/sec): 0
+Average Latency:        1.86606
+Stddev Latency:         4.09175
+Max latency:            29.121
+Min latency:            0.165329
+
+--------------------------------------------------------------------
+
